@@ -25,7 +25,7 @@ This repository serves as a temporary portfolio hub while a full website is unde
 ### 📘 Portfolio Overview (One-Pager)
 A concise executive summary with positioning, flagship systems, and delivery metrics.
 
-➡️ **[View Portfolio Overview](./01-overview/Missy-Gehring_Portfolio-Overview.pdf)**
+➡️ **[View Portfolio Overview](./01-overview.md)**
 
 ---
 
