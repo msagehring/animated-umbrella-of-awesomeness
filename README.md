@@ -39,7 +39,7 @@ Enterprise program leadership across defense, intelligence, healthcare, and inte
 ### 🏗️ Construction, Scheduling & Infrastructure Delivery
 Deep technical expertise in Primavera P6 and Microsoft Project scheduling, earned value management, and integrated delivery for complex construction and modernization programs.
 
-➡️ **[View Construction & Scheduling Portfolio](./03-construction-scheduling/Missy-Gehring_Portfolio_Construction-Scheduling.pdf)**
+➡️ **[View Construction & Scheduling Portfolio](./03-construction_scheduling.md)**
 
 ---
 
