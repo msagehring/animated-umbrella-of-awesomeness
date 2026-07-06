@@ -32,7 +32,7 @@ A concise executive summary with positioning, flagship systems, and delivery met
 ### 🖥️ Software, Platform & Mission Delivery
 Enterprise program leadership across defense, intelligence, healthcare, and international modernization initiatives.
 
-➡️ **[View Software Delivery Portfolio](./02-software-delivery/Missy-Gehring_Portfolio_Software-Delivery.md)**
+➡️ **[View Software Delivery Portfolio](./02-software-delivery.md)**
 
 ---
 
