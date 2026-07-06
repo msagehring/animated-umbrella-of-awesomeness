@@ -1,4 +1,5 @@
-# Software, Platform & Mission Delivery  
+# Maria Samantha “Missy” Gehring 
+## Software, Platform & Mission Delivery  
 ### Mission-Critical Programs • Defense • Intelligence • Federal Systems
 
 This portfolio section highlights my work leading and architecting **software, platform, and mission-delivery systems** in environments where failure is not abstract—systems must function reliably under regulatory scrutiny, security constraints, and real-world operational pressure.
